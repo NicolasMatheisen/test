@@ -17,4 +17,4 @@ Dies ist ein Discord-Bot, der mit Discord.js erstellt wurde.
 ### Schritte
 1. **Repository klonen**:
    ```sh
-   git clone https://github.com/dein-username/dein-repo.git
+   git clone https://github.com/NicolasMatheisen/discordbot.git
