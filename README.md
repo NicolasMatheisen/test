@@ -1,4 +1,4 @@
-# Mein Discord-Bot
+# PotionCraft
 
 Dies ist ein Discord-Bot, der mit Discord.js erstellt wurde.
 
