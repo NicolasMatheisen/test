@@ -1,33 +1,20 @@
-# README.md
+# Mein Discord-Bot
 
-# Project Title
-# This section should contain the title of your project.
+Dies ist ein Discord-Bot, der mit Discord.js erstellt wurde.
 
-# Description
-# Provide a brief description of what your project does and its purpose.
+## Inhaltsverzeichnis
+- [Installation](#installation)
+- [Verwendung](#verwendung)
+- [Beitragen](#beitragen)
+- [Lizenz](#lizenz)
 
-# Prerequisites
-# List any prerequisites needed to run the project, such as software or libraries.
+## Installation
 
-# Cloning the Project
-## Step 1: Clone the Repository
-# Use the following command to clone the repository to your local machine.
-git clone https://github.com/username/repository.git
+### Voraussetzungen
+- Node.js (empfohlen Version 16 oder höher)
+- npm (Node Package Manager)
 
-## Step 2: Navigate to the Project Directory
-# Change into the project directory using the command below.
-cd repository
-
-# Step 3: Configure Environment Variables
-## Editing the .env.example File
-# Rename the .env.example file to .env and edit it to set your environment variables.
-cp .env.example .env
-
-# Step 4: Install Dependencies
-# Install the necessary dependencies for the project using the command below.
-npm install
-
-# Step 5: Run the Project
-# Start the project using the command below.
-npm start
-
+### Schritte
+1. **Repository klonen**:
+   ```sh
+   git clone https://github.com/dein-username/dein-repo.git
