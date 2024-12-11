@@ -20,10 +20,10 @@ Dies ist ein Discord-Bot, der mit Discord.js erstellt wurde.
    ```bash
    git clone https://github.com/NicolasMatheisen/discordbot.git
 
-2. **Wechsle in das Projektverzeichnis:
+2. **Wechsle in das Projektverzeichnis**:
    ```bash
    cd dein-projektordner
 
-3. **Installiere die Abhängigkeiten:
+3. **Installiere die Abhängigkeiten**:
    ```bash
    npm install
