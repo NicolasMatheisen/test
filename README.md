@@ -15,6 +15,15 @@ Dies ist ein Discord-Bot, der mit Discord.js erstellt wurde.
 - npm (Node Package Manager)
 
 ### Schritte
+
 1. **Repository klonen**:
-   ```sh
+   ```bash
    git clone https://github.com/NicolasMatheisen/discordbot.git
+
+2. **Wechsle in das Projektverzeichnis:
+   ```bash
+   cd dein-projektordner
+
+3. **Installiere die Abhängigkeiten:
+   ```bash
+   npm install
