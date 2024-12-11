@@ -27,3 +27,11 @@ Dies ist ein Discord-Bot, der mit Discord.js erstellt wurde.
 3. **Installiere die Abhängigkeiten**:
    ```bash
    npm install
+   
+benenne die .env.example um in .env und beartbeite diese
+
+passe diese .env an 
+   ```bash
+   DISCORD_TOKEN=dein_discord_token
+   CLIENT_ID=deine_client_id
+   GUILD_ID=deine_guild_id
