@@ -30,6 +30,9 @@ Dies ist ein Discord-Bot, der mit Discord.js erstellt wurde.
 
 1. Umbenennen der ```.env.example``` in ```.env```
    
+   ```bash
+   mv .env.example .env
+
 benenne die .env.example um in .env und beartbeite diese
 
 passe diese .env an 
