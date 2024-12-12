@@ -32,10 +32,9 @@ Dies ist ein Discord-Bot, der mit Discord.js erstellt wurde.
    
    ```bash
    mv .env.example .env
+   
+2. Anpassung der ```.env```
 
-benenne die .env.example um in .env und beartbeite diese
-
-passe diese .env an 
    ```bash
    DISCORD_TOKEN=dein_discord_token
    CLIENT_ID=deine_client_id
