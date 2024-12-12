@@ -14,8 +14,6 @@ Dies ist ein Discord-Bot, der mit Discord.js erstellt wurde.
 - Node.js (empfohlen Version 16 oder höher)
 - npm (Node Package Manager)
 
-### Schritte
-
 1. **Repository klonen**:
    ```bash
    git clone https://github.com/NicolasMatheisen/discordbot.git
@@ -27,6 +25,10 @@ Dies ist ein Discord-Bot, der mit Discord.js erstellt wurde.
 3. **Installiere die Abhängigkeiten**:
    ```bash
    npm install
+   
+## Konfiguration
+
+1. Umbenennen der ```.env.example``` in ```.env```
    
 benenne die .env.example um in .env und beartbeite diese
 
