@@ -17,7 +17,7 @@ Unser Discord-Bot bietet eine Vielzahl von nützlichen Befehlen. Hier ist eine �
 | Befehl          | Beschreibung                                      | Verwendung                        |
 |-----------------|---------------------------------------------------|-----------------------------------|
 | **/daily**       | Sammel deine tägliche Belohnung ein    | `/daily`                           |
-| **!info**       | Gibt Informationen über den Bot zurück.           | `!info`                           |
+| **/explore**       | Durchsuche eine Welt um Ressourcen zu sammeln           | `/explore [Welt](required)`                           |
 | **!play**       | Spielt ein Lied von YouTube ab.                   | `!play [URL oder Suchbegriff]`    |
 | **!pause**      | Pausiert die aktuelle Wiedergabe.                 | `!pause`                          |
 | **!resume**     | Setzt die pausierte Wiedergabe fort.              | `!resume`                         |
