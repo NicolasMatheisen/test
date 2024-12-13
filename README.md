@@ -16,7 +16,7 @@ Unser Discord-Bot bietet eine Vielzahl von n체tzlichen Befehlen. Hier ist eine �
 
 | Befehl          | Beschreibung                                      | Verwendung                        |
 |-----------------|---------------------------------------------------|-----------------------------------|
-| **!help**       | Zeigt eine Liste aller verf체gbaren Befehle an.    | `!help`                           |
+| **/daily**       | Sammel deine t채gliche Belohnung ein    | `/help`                           |
 | **!info**       | Gibt Informationen 체ber den Bot zur체ck.           | `!info`                           |
 | **!play**       | Spielt ein Lied von YouTube ab.                   | `!play [URL oder Suchbegriff]`    |
 | **!pause**      | Pausiert die aktuelle Wiedergabe.                 | `!pause`                          |
