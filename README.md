@@ -19,15 +19,7 @@ Unser Discord-Bot bietet eine Vielzahl von nützlichen Befehlen. Hier ist eine �
 | **/daily**       | Sammel deine tägliche Belohnung ein    | `/daily`                           |
 | **/explore**       | Durchsuche eine Welt um Ressourcen zu sammeln           | `/explore [Welt](required)`                           |
 | **/history**       | Zeigt dem User den Verlauf der 40 zuletzt benutzten Commands an                | `/history`    |
-| **!pause**      | Pausiert die aktuelle Wiedergabe.                 | `!pause`                          |
-| **!resume**     | Setzt die pausierte Wiedergabe fort.              | `!resume`                         |
-| **!skip**       | Überspringt das aktuelle Lied.                    | `!skip`                           |
-| **!ban**        | Bannt einen Benutzer vom Server.                  | `!ban [Benutzer] [Grund]`         |
-| **!kick**       | Kickt einen Benutzer vom Server.                  | `!kick [Benutzer] [Grund]`        |
-| **!mute**       | Stummschaltet einen Benutzer für eine bestimmte Zeit. | `!mute [Benutzer] [Dauer]`    |
-| **!meme**       | Sendet ein zufälliges Meme.                       | `!meme`                           |
-| **!joke**       | Erzählt einen zufälligen Witz.                    | `!joke`                           |
-| **!weather**    | Zeigt das aktuelle Wetter für eine bestimmte Stadt an. | `!weather [Stadt]`           |
-| **!news**       | Zeigt die neuesten Nachrichten an.                | `!news`                           |
-
+| **/inventory**      | Zeigt dein eigenes Inventar an               | `/inventory`                          |
+| **/recipe**     | Zeigt dir ein Rezeptbuch an             | `/recipe`                         |
+| **/shop**       | Durchsuche das Sortiment des Shops                | `/shop`                           |
 ---
